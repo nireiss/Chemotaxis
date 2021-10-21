@@ -21,7 +21,7 @@ class Walker
   {
     int myColor = (int)(Math.random()*255);
     fill(myColor, myColor, myColor);
-  ellipse (myX, myY, 30, 30);
+  ellipse (myX, myY, 10, 10);
   }
  
 }
